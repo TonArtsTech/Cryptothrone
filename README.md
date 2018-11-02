@@ -62,7 +62,7 @@
 ##  四、Cryptothrone Token（开发中）
 
 
-CryptoThrone游戏中共解锁100000000枚Token。
+CryptoThrone游戏中共解锁10亿枚Token。
 
 CT作为游戏中的代币后续主要应用场景包括但不限于：侦查、迁城、加速道具、保护罩、解锁和升级建筑、升级科技、建立联盟、王座争夺战等。
 
